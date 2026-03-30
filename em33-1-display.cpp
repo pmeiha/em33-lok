@@ -29,7 +29,8 @@ MAX72XX dispChain(latchPin, numDevices);
 // constexpr uint8_t dataPin = 6;   // change to reflect your dataPin
 // constexpr uint8_t clockPin = 4;  // change to reflect your clockPin
 
-// create the object for the device chain
+// create the object for the device chainls
+
 // MAX72XX dispChain(dataPin, clockPin, latchPin, numDevices);
 
 // create the 3 displays V / km/h / A
